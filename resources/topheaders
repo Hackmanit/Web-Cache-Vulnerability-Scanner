@@ -1,0 +1,8 @@
+x-forwarded-host
+x-forwarded-scheme
+x-forwarded-server
+x-forwarded-port
+origin
+cookie
+x-host
+host
